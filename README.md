@@ -4,8 +4,8 @@ This project demonstrates a simple square loading animation using HTML and CSS. 
 
 ## Project Preview
 
-![Project Preview](URL-to-screenshot-or-gif)  
-*(Replace with a screenshot or GIF of your project)*
+![17291696075781891350655536434670](https://github.com/user-attachments/assets/4dd1ff7a-d6ef-465b-b451-767c9dbf8d38)
+
 
 ## Features
 - Five square loading animation with a smooth scaling effect
